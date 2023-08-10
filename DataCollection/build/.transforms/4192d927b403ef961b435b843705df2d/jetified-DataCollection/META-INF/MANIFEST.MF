@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 11.0.12 (Microsoft)
+
+Name: classes.jar
+SHA-256-Digest: 8dO2SpLeCvDKyHbhljuKJVXgVLFGWM/ldsX5uJAvaQU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: w76CsOyGbzNUtQ5NGpLLQkt+OTWGJBJq55bBiZAx5JA=
+
+Name: res/values/values.xml
+SHA-256-Digest: UpFE2A5NKekQrN44eGyUlHzNVQfLmZKJBqbzgmoxoEE=
+
+Name: res/drawable-xhdpi-v4/barcode_example_icon.png
+SHA-256-Digest: lfzNT4AgoXMvlccZFwkvdt3YTAqhwZlWDaNblSIH4g8=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: KYrKGXYBgZdANW7f0b2i4Y87NObExPdmvgIHCXkCaWg=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: pXyOGq5DMATGiRsxDTKZmsaKWRTJw5Ot4I12CwzK4FE=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: pYgSp3g6wCJ1lmEPlQR7We+JbAVDDE6PdaNXh/epKK8=
+
+Name: aidl/com/honeywell/Message.aidl
+SHA-256-Digest: WNcuI3htZONbAJVnZxDuFu8JGnByl3a3ii6GVsP1a9I=
+
+Name: res/drawable-mdpi-v4/barcode_example_icon.png
+SHA-256-Digest: 1dLVjxaeyJGVTavEVHrqlQcA8P9EylCOjaNlKogJXyQ=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 1Yj3e1faqtfx9LVrBw8uy8B6HhyUf7fd0nMUjY8YB58=
+
+Name: R.txt
+SHA-256-Digest: SCyXMFV9fP+bHLPY7QjMtTTg1nPQLHeROJmBcTp9AmY=
+
+Name: res/drawable-hdpi-v4/barcode_example_icon.png
+SHA-256-Digest: gq0Pxx4BIY+9D+Z/Z8hNtkuaKyw9zulzxQT4DmzRroM=
+
